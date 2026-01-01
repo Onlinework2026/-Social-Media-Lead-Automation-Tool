@@ -1,0 +1,8 @@
+{
+  "name": "SocialLead AI Automator",
+  "description": "A comprehensive lead management and automation dashboard for Facebook and Instagram, featuring AI-powered response generation and real-time tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
